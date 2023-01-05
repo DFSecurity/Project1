@@ -7,22 +7,22 @@
 }
 
 li {
-	text-align: left;
-	color: darkslategray;
+    text-align: left;
+    color: darkslategray;
 }
 
 .tables {
-	text-align: center;
-	color: midnightblue;
+    text-align: center;
+    color: midnightblue;
 }
 
 tr {
     text-align: center;
-	color: darkslategray;
+    color: darkslategray;
 }
 
 .finish {
-	margin: auto;
+    margin: auto;
     padding: 100px;
     font-family: sans-serif;
     text-align: center;
